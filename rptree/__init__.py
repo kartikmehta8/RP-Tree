@@ -1,0 +1,5 @@
+# __init.py__
+
+"""Top-level package for RP Tree."""
+
+__version__ = "0.1.0"
